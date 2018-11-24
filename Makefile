@@ -4,3 +4,4 @@ draw_tree:
 oc_commands:
 	oc projects
 	oc get pods
+	oc explain pod
