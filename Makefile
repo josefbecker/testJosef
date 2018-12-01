@@ -6,4 +6,5 @@ oc_commands:
 	oc get pods
 	oc explain pod
 list:
+	echo '__________________________________________'
 	cat Makefile | grep '[a-z]:'
