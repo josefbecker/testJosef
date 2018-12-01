@@ -1,4 +1,4 @@
-all: draw_tree oc_commands
+all: draw_tree oc_commands list
 draw_tree:
 	./tree.sh ${hoch} ${breit}
 oc_commands:
