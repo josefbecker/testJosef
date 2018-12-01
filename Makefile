@@ -5,3 +5,5 @@ oc_commands:
 	oc projects
 	oc get pods
 	oc explain pod
+list:
+	cat Makefile | grep '[a-z]:'
